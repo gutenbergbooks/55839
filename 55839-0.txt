@@ -1,27 +1,36 @@
-﻿The Project Gutenberg eBook of The Law’s Lumber Room (Second Series), by Francis Watt
+﻿Project Gutenberg's The Law's Lumber Room (Second Series), by Francis Watt
 
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
 
-Title: The Law’s Lumber Room (Second Series)
+Title: The Law's Lumber Room (Second Series)
 
 Author: Francis Watt
 
-Release Date: October 28, 2017 [eBook #55839]
-[Most recently updated: October 9, 2021]
+Release Date: October 28, 2017 [EBook #55839]
 
 Language: English
 
 Character set encoding: UTF-8
 
-Produced by: deaurider, David E. Brown, and the Online Distributed Proofreading Team
+*** START OF THIS PROJECT GUTENBERG EBOOK THE LAW'S LUMBER ROOM (2ND SERIES) ***
 
-*** START OF THE PROJECT GUTENBERG EBOOK THE LAW’S LUMBER ROOM (2ND SERIES) ***
+
+
+
+Produced by deaurider, David E. Brown, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
 
 
 
@@ -1788,7 +1797,7 @@ mother followed. After two hours they crept back again; and the boy,
 supposed to be sleeping, heard them whisper to each other the story of
 the murder, how Philip guarded the chamber door “with a drawn sword
 and a bendit pistol,” how it was strange a man should die so soon, how
-they carried the body to the water and threw it in, and how his mother
+they earned the body to the water and threw it in, and how his mother
 ever since was afraid to stay alone in the house after nightfall. The
 evidence of Anna Mark was as to certain criminating words used by her
 mother Janet Johnstoun.
@@ -3234,7 +3243,7 @@ attorneys, solicitors--in time arose, and the appointment of Queen’s
 Counsel, of whom Lord Bacon was the earliest, struck the first real
 blow at the Order of the Coif; but the detail of such things is not
 for this page. In later days every Serjeant was a more fully developed
-barrister, and then and now, as is well known, every barrister must
+banister, and then and now, as is well known, every barrister must
 belong to one of the four Inns of Court--the two Temples, Gray’s Inn,
 and Lincoln’s Inn to wit, whose history cannot be told here; suffice
 it to say they were voluntary associations of lawyers, which gradually
@@ -3391,7 +3400,7 @@ times when prayers were said for the dead.
 
 A few words will tell of the fall of the order. As far back as 1755
 Sir John Willis, Chief Justice of the Common Pleas, proposed to throw
-open that court as well as the office of judge to barristers who were
+open that court as well as the office of judge to banisters who were
 not Serjeants, but the suggestion came to nothing. In 1834, the Bill
 for the establishment of a Central Criminal Court contained a clause
 to open the Common Pleas; this was dropped, but the same object was
@@ -3476,29 +3485,40 @@ TRANSCRIBER’S NOTES:
 
 
 
-*** END OF THE PROJECT GUTENBERG EBOOK THE LAW’S LUMBER ROOM (2ND SERIES) ***
+
+End of the Project Gutenberg EBook of The Law's Lumber Room (Second Series), by 
+Francis Watt
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE LAW'S LUMBER ROOM (2ND SERIES) ***
+
+***** This file should be named 55839-0.txt or 55839-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/5/8/3/55839/
+
+Produced by deaurider, David E. Brown, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
 
 Creating the works from print editions not protected by U.S. copyright
 law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
 royalties. Special rules, set forth in the General Terms of Use part
 of this license, apply to copying and distributing Project
 Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
 concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
 
 START: FULL LICENSE
 
@@ -3562,7 +3582,7 @@ agreement before downloading, copying, displaying, performing,
 distributing or creating derivative works based on this work or any
 other Project Gutenberg-tm work. The Foundation makes no
 representations concerning the copyright status of any work in any
-country other than the United States.
+country outside the United States.
 
 1.E. Unless you have removed all references to Project Gutenberg:
 
@@ -3578,8 +3598,8 @@ performed, viewed, copied or distributed:
   restrictions whatsoever. You may copy it, give it away or re-use it
   under the terms of the Project Gutenberg License included with this
   eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
 
 1.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
@@ -3615,7 +3635,7 @@ compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
 to or distribute copies of a Project Gutenberg-tm work in a format
 other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm website
+version posted on the official Project Gutenberg-tm web site
 (www.gutenberg.org), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
 of obtaining a copy upon request, of the work in its original "Plain
@@ -3628,7 +3648,7 @@ unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8. You may charge a reasonable fee for copies of or providing
 access to or distributing Project Gutenberg-tm electronic works
-provided that:
+provided that
 
 * You pay a royalty fee of 20% of the gross profits you derive from
   the use of Project Gutenberg-tm works calculated using the method
@@ -3662,9 +3682,9 @@ provided that:
 1.E.9. If you wish to charge a fee or distribute a Project
 Gutenberg-tm electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg-tm trademark. Contact the Foundation as set
-forth in Section 3 below.
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
 
 1.F.
 
@@ -3751,10 +3771,11 @@ Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
 www.gutenberg.org
 
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
 
-The Project Gutenberg Literary Archive Foundation is a non-profit
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service. The Foundation's EIN or federal tax identification
@@ -3762,18 +3783,27 @@ number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
 U.S. federal laws and your state's laws.
 
-The Foundation's business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation's website
-and official page at www.gutenberg.org/contact
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
 
 Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
+freely distributed in machine readable form accessible by the widest
 array of equipment including outdated equipment. Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
@@ -3796,12 +3826,12 @@ International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
 outside the United States. U.S. laws alone swamp our small staff.
 
-Please check the Project Gutenberg web pages for current donation
+Please check the Project Gutenberg Web pages for current donation
 methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate
 
-Section 5. General Information About Project Gutenberg-tm electronic works
+Section 5. General Information About Project Gutenberg-tm electronic works.
 
 Professor Michael S. Hart was the originator of the Project
 Gutenberg-tm concept of a library of electronic works that could be
@@ -3815,12 +3845,11 @@ the U.S. unless a copyright notice is included. Thus, we do not
 necessarily keep eBooks in compliance with any particular paper
 edition.
 
-Most people start at our website which has the main PG search
+Most people start at our Web site which has the main PG search
 facility: www.gutenberg.org
 
-This website includes information about Project Gutenberg-tm,
+This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-
 
